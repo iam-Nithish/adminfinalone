@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|c:\\users\\iamni\\onedrive\\desktop\\mvc admin\\myntra\\myntra\\views\\home\\updateproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\views\\home\\updateproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\views\\home\\deleteproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\views\\home\\deleteproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\views\\admin_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\views\\admin_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\views\\home\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\views\\home\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\views\\home\\addproducs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\views\\home\\addproducs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\views\\home\\myprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\views\\home\\myprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\contents\\admindash\\ticket-list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\contents\\admindash\\ticket-list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\myntra\\contents\\admindash\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFBF93D-55CF-405C-90AF-1E263B284C68}|Myntra\\Myntra.csproj|solutionrelative:myntra\\contents\\admindash\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Web.config",
+              "RelativeDocumentMoniker": "Myntra\\Web.config",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Web.config",
+              "RelativeToolTip": "Myntra\\Web.config",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC8AAACnAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-29T16:34:59.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Myntra\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Models\\Product.cs",
+              "RelativeToolTip": "Myntra\\Models\\Product.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:17:16.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProducs.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\AddProducs.cshtml",
+              "RelativeDocumentMoniker": "Myntra\\Views\\Home\\AddProducs.cshtml",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\AddProducs.cshtml",
+              "RelativeToolTip": "Myntra\\Views\\Home\\AddProducs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T17:56:43.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Myntra\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Myntra\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowJsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T16:03:53.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\DeleteProducts.cshtml",
+              "RelativeDocumentMoniker": "Myntra\\Views\\Home\\DeleteProducts.cshtml",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\DeleteProducts.cshtml",
+              "RelativeToolTip": "Myntra\\Views\\Home\\DeleteProducts.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T18:00:12.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Admin_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "Myntra\\Views\\Admin_LayoutPage1.cshtml",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Admin_LayoutPage1.cshtml",
+              "RelativeToolTip": "Myntra\\Views\\Admin_LayoutPage1.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAWwCoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T16:02:49.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "Myntra\\Views\\Home\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\ProductList.cshtml",
+              "RelativeToolTip": "Myntra\\Views\\Home\\ProductList.cshtml",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T17:37:13.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\UpdateProducts.cshtml",
+              "RelativeDocumentMoniker": "Myntra\\Views\\Home\\UpdateProducts.cshtml",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\UpdateProducts.cshtml",
+              "RelativeToolTip": "Myntra\\Views\\Home\\UpdateProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T17:58:39.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Models\\Model1.cs",
+              "RelativeDocumentMoniker": "Myntra\\Models\\Model1.cs",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Models\\Model1.cs",
+              "RelativeToolTip": "Myntra\\Models\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:17:14.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Myntra\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Myntra\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-29T16:08:20.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Myntra\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Myntra\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKoBAAAAAAAAAAAowIMBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T16:04:18.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\MyProfile.cshtml",
+              "RelativeDocumentMoniker": "Myntra\\Views\\Home\\MyProfile.cshtml",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Views\\Home\\MyProfile.cshtml",
+              "RelativeToolTip": "Myntra\\Views\\Home\\MyProfile.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T15:19:25.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Myntra\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Myntra\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T16:26:15.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ticket-list.html",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Contents\\adminDash\\ticket-list.html",
+              "RelativeDocumentMoniker": "Myntra\\Contents\\adminDash\\ticket-list.html",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Contents\\adminDash\\ticket-list.html",
+              "RelativeToolTip": "Myntra\\Contents\\adminDash\\ticket-list.html",
+              "ViewState": "AgIAAPUCAAAAAAAAAAAowBwDAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-28T17:39:52.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Contents\\adminDash\\index.html",
+              "RelativeDocumentMoniker": "Myntra\\Contents\\adminDash\\index.html",
+              "ToolTip": "C:\\Users\\iamni\\OneDrive\\Desktop\\MVC ADMIN\\Myntra\\Myntra\\Contents\\adminDash\\index.html",
+              "RelativeToolTip": "Myntra\\Contents\\adminDash\\index.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-28T16:05:45.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
